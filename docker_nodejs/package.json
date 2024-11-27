@@ -1,0 +1,17 @@
+{
+    "name": "simple-http-server",
+    "version": "1.0.0",
+    "description": "A very simple HTTP file server using Node.js standard library.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": ["http", "server", "nodejs"],
+    "author": "Zaprudnov Fedor",
+    "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FIZZI-77/niaspo-.git"
+    }
+  }
+  
